@@ -1,5 +1,2 @@
 # Lab1
 ECE IoT
-![399EEABE-97B0-4E86-828B-0AA93D921DAE_1_105_c](https://github.com/DylanBaut/Lab1/assets/70183425/67301fc5-9cc5-42b6-9109-144e714916d5)
-![1C206374-78C4-4308-86EB-5C3F6EB3174B_1_106_c](https://github.com/DylanBaut/Lab1/assets/70183425/bea784de-9ef3-4339-9d31-ba6724a90ec5)
-![AE1D9878-184D-40F8-B44D-90A26D90D11A_1_106_c](https://github.com/DylanBaut/Lab1/assets/70183425/908d4f97-fbb3-4650-8f2b-5cb19aa62185)
